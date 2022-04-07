@@ -1,4 +1,4 @@
-Image Filtering deploying to elastic bean stalk
+This project demonstrates an understanding of AWS Elastic Beanstalk’s CLI and Console Dashboard and was deployed using the AWS Elastic Beanstalk CLI eb init, eb create, and eb deploy commands.
 
 
 ### Setup Node Environment
